@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="342c0ead-54bc-4c7b-9969-d6ba5111d61f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1fDOuFaxlPTLsm9dMi0EWZlo6xB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="imgr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AI图像识别工具" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/imagerecognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/imagerecognition/imgr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.imgr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="342c0ead-54bc-4c7b-9969-d6ba5111d61f" name="Default Changelist" comment="" />
+      <created>1595749417992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595749417992</updated>
+      <workItem from="1595749436322" duration="1864000" />
+      <workItem from="1595862020339" duration="1219000" />
+      <workItem from="1595943159359" duration="6000" />
+      <workItem from="1596041060475" duration="617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1230" height="171" key="GridCell.Tab.0.bottom" timestamp="1596043568065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1230" height="171" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596043568065" />
+    <state width="1230" height="171" key="GridCell.Tab.0.center" timestamp="1596043568065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1230" height="171" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596043568065" />
+    <state width="1230" height="171" key="GridCell.Tab.0.left" timestamp="1596043568065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1230" height="171" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596043568065" />
+    <state width="1230" height="171" key="GridCell.Tab.0.right" timestamp="1596043568065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1230" height="171" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596043568065" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AI$imgr.coverage" NAME="imgr Coverage Results" MODIFIED="1596041065522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/imagerecognition" />
+  </component>
+</project>
